@@ -1,0 +1,26 @@
+{
+  "name": "collapsible-card",
+  "version": "1.0.0",
+  "description": "React Native for Web starter template",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "bezier-easing": "2.1.0",
+    "prop-types": "15.7.2",
+    "react": "16.8.3",
+    "react-art": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-feather": "1.1.6",
+    "react-native-web": "0.10.0",
+    "react-scripts": "2.1.5",
+    "react-spring": "8.0.8",
+    "resize-observer-polyfill": "1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
